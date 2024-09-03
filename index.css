@@ -322,6 +322,10 @@ span {
     background-image: url(assets/ContactForm.PNG);
     text-align: center;
 }
+.Second-box{
+    background-image: url(assets/Flipkart\ Clone.PNG);
+    text-align: center;
+}
 .first-box h2{
     font-weight: 800;
     text-wrap: wrap;
