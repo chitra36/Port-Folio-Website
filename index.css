@@ -322,10 +322,7 @@ span {
     background-image: url(assets/ContactForm.PNG);
     text-align: center;
 }
-.Second-box{
-    background-image: url(assets/Flipkart\ Clone.PNG);
-    text-align: center;
-}
+
 .first-box h2{
     font-weight: 800;
     text-wrap: wrap;
@@ -333,6 +330,30 @@ span {
     
     
 }
+
+.Second-box{
+    background-image: url(assets/Movie-App.PNG);
+    text-align: center;
+}
+.Second-box .front h2{
+    font-weight: 800;
+    text-wrap: wrap;
+    font-size: 30px;
+   
+}
+.Third-box {
+    background-image: url(assets/LoginForm.PNG);
+    background-size: cover; /* Ensures the image covers the entire box */
+    background-position: center; /* Centers the image in the box */
+    text-align: center;
+}
+
+.Third-box .front h2 {
+    font-weight: 800;
+    font-size: 30px;
+    word-wrap: break-word; /* Ensures long words wrap within the box */
+}
+
 .project-box .front, .project-box .back {
     position: absolute;
     width: 100%;
